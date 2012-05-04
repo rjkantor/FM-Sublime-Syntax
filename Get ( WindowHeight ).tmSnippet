@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Get ( WindowHeight )</string>
+	<key>name</key>
+	<string>Get ( WindowHeight )</string>
+	<key>scope</key>
+	<string>source.filemaker</string>
+	<key>tabTrigger</key>
+	<string>getwh</string>
+	<key>uuid</key>
+	<string>A92E8479-67FB-446A-B53F-DD3715D453E5</string>
+</dict>
+</plist>

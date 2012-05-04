@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Get ( LastODBCError )</string>
+	<key>name</key>
+	<string>Get ( LastODBCError )</string>
+	<key>scope</key>
+	<string>source.filemaker</string>
+	<key>tabTrigger</key>
+	<string>getlodbc</string>
+	<key>uuid</key>
+	<string>49390B31-3CDF-4748-8791-0A8006BA99C6</string>
+</dict>
+</plist>
